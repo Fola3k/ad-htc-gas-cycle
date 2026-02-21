@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AD-HTC Fuel-Enhanced Power Gas Cycle
 
 **Energhx Research Group · Faculty of Engineering, University of Lagos**
@@ -58,3 +59,7 @@ ad-htc-gas-cycle/
 ├── ad_htc_app.py
 ├── requirements.txt
 └── README.md
+=======
+# ad-htc-gas-cycle
+AD-HTC Fuel-Enhanced Gas Power Cycle
+>>>>>>> f525c4a182f0f1afaceefef0e856b9c66172d9a6
